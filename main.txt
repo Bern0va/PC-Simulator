@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": "save1",
+      "title": "Test Save",
+      "description": "Первый тестовый сейв",
+      "author": "Alex",
+      "version": "1.0",
+      "icon": "https://i.imgur.com/XXXX.png",
+      "uploadTime": 1700000000,
+      "downloads": 10,
+      "fileUrl": "https://example.com/save1.dat"
+    }
+  ]
+}
