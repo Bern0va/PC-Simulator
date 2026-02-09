@@ -2,14 +2,14 @@
   "items": [
     {
       "id": "save1",
-      "title": "Test Save",
-      "description": "Первый тестовый сейв",
-      "author": "Alex",
+      "title": "Bad Apple",
+      "description": "Реализация Bad Apple в терминале",
+      "author": "@nobhkybsh",
       "version": "1.0",
-      "icon": "https://i.imgur.com/XXXX.png",
-      "uploadTime": 1700000000,
-      "downloads": 10,
-      "fileUrl": "https://example.com/save1.dat"
+      "icon": "https://github.com/Bern0va/PC-Simulator/blob/main/Bad-Apple/photo_5375377770151612048_y.jpg?raw=true",
+      "uploadTime": 1767139200,
+      "downloads": "?",
+      "fileUrl": "https://github.com/Bern0va/PC-Simulator/raw/refs/heads/main/Bad-Apple/Bad%20Apple%20V1.pc"
     }
   ]
 }
